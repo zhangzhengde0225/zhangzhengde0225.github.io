@@ -16,7 +16,7 @@ Shanghai Jiao Tong University ([SJTU](https://www.sjtu.edu.cn)), Shanghai, China
 
 His interests include deep learning, computer vision, quantum theory and quantum inspired fusion algorithm.
 
-### Educational Experience
+## Educational Experience
 In 2015, he received the B.S. degree in applied physics from the School of Physics, 
 Beihang University ([BUAA](https://www.buaa.edu.cn)), Beijing, China. 
 
@@ -24,7 +24,7 @@ In 2020, he received the Ph.D. degree in particle physics and nuclear physics fr
 Institute of Applied Physics ([SINAP](http://www.sinap.cas.cn)), 
 Chinese Academy of Sciences ([CAS](https://www.cas.cn)), Shanghai, China. 
 
-### Publications
+## Publications
 
 - FINet: An Insulator Dataset and Detection Benchmark Based on Synthetic Fog and improved YOLOv5
     
@@ -43,7 +43,7 @@ Chinese Academy of Sciences ([CAS](https://www.cas.cn)), Shanghai, China.
     In 2020 | [Paper](https://doi.org/10.1016/j.commatsci.2020.109571)
 
 
-### infos
+## Infos
 
 e-mail: drivener@163.com
 
