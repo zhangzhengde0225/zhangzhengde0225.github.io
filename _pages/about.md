@@ -36,7 +36,9 @@ Chinese Academy of Sciences ([CAS](https://www.cas.cn)), Shanghai, China.
 ## Achievements / 成果
 ***
 
-#### Open Source Project / 开源项目
+### Open Source Project / 开源项目
+***
+
 - [1] [damei](https://github.com/zhangzhengde0225/damei): A Deep Learning Tools and Controller. 
   
   一个深度学习工具库和控制器.
@@ -54,7 +56,8 @@ Chinese Academy of Sciences ([CAS](https://www.cas.cn)), Shanghai, China.
 
   一个高效的VASP辅助计算程序.
 
-#### Publications / 学术论著
+### Publications / 学术论著
+***
 
 - [1] **Zhang ZD**\*, Tan ML, Lan ZC, Liu HC, Pei L and Yu WX*.
   
@@ -169,7 +172,8 @@ Chinese Academy of Sciences ([CAS](https://www.cas.cn)), Shanghai, China.
   
   DOI: [10.1063/1.5145016](https://doi.org/10.1063/1.5145016)
 
-#### Patent / 专利
+### Patent / 专利
+***
 
 - [1] 基于深度学习的可见光、红外和雷达融合目标检测方法. 2022. 
 
@@ -177,7 +181,8 @@ Chinese Academy of Sciences ([CAS](https://www.cas.cn)), Shanghai, China.
   
 - [3] 一种基于深度学习的输电线路绝缘子缺陷检测方法及系统. 2021.
 
-#### Software copyright / 软著
+### Software copyright / 软著
+***
 
 - [1] 基于深度学习的目标自动检测、跟踪和半自动标注软件. 2021, 2021SR0416473.
 
@@ -192,6 +197,7 @@ Wechat: drivener
 [Github Homepage](https://github.com/zhangzhengde0225)
 
 [ORCID Homepage](https://orcid.org/my-orcid?orcid=0000-0002-6542-052X)
+
 
 
 
