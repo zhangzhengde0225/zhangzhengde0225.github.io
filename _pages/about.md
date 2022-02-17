@@ -1,11 +1,14 @@
+---
 permalink: /
 title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - "/wordpress/"
+  - "/wordpress/index.html"
 ---
+
+{% include base_path %}
 
 Zhengde Zhang is currently a postdoctor at the School of Electronic Information and Electrical Engineering ([SEIEE](https://www.seiee.sjtu.edu.cn)), 
 Shanghai Jiao Tong University ([SJTU](https://www.sjtu.edu.cn)).
