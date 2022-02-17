@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Zhengde Zhang"
   avatar           : "profile.png"
-  bio              : "B.S. from <a style='color: blue;' href='https://www.buaa.edu.cn'>BUAA</a> <br> <br> Ph.D from <a style='color: blue;' href='https://www.ucas.ac.cn'>CAS</a> <br> <br> Postdoctor at <a style='color: blue;' href='https://www.seiee.sjtu.edu.cn'> SEIEE, Shanghai Jiao Tong University</a>"
-  location         : "Location"
+  bio              : "B.S. from <a style='color: blue;' href='https://www.buaa.edu.cn'>BUAA</a> Ph.D from <a style='color: blue;' href='https://www.ucas.ac.cn'>CAS</a> Postdoctor at <a style='color: blue;' href='https://www.seiee.sjtu.edu.cn'> SEIEE, Shanghai Jiao Tong University</a>"
+  location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/zhangzhengde0225"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6542-052X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
