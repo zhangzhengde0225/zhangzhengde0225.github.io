@@ -9,7 +9,7 @@
 locale                   : "zh-CN"  # "zh-CN" "en-US"
 title                    : "Zhengde Zhang/张正德"
 title_separator          : "-"
-name                     : &name "Zhengde Zhang"
+name                     : &name "Zhengde Zhang/张正德"
 description              : &description "personal description"
 url                      : https://zhangzhengde0225.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhengde Zhang"
+  name             : "Zhengde Zhang <br> 张正德"
   avatar           : "zhengde.jpeg"
   bio              : "B.S. from <a style='color: blue;' href='https://www.buaa.edu.cn'>BUAA</a> <br> Ph.D from <a style='color: blue;' href='https://www.ucas.ac.cn'>CAS</a> <br> Postdoctor at <a style='color: blue;' href='https://www.seiee.sjtu.edu.cn'> SEIEE, SJTU</a> now"
   location         : "Shanghai, China"
