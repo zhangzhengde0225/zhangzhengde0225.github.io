@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"  # "zh-CN" "en-US"
-title                    : "Zhengde Zhang <br> 张正德"
+title                    : "Zhengde Zhang"
 title_separator          : "-"
 name                     : &name "Zhengde Zhang <br> 张正德"
 description              : &description "personal description"
