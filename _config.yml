@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "zh-CN"  # "zh-CN" "en-US"
-title                    : "Zhengde Zhang/张正德"
+title                    : "Zhengde Zhang <br> 张正德"
 title_separator          : "-"
-name                     : &name "Zhengde Zhang/张正德"
+name                     : &name "Zhengde Zhang <br> 张正德"
 description              : &description "personal description"
 url                      : https://zhangzhengde0225.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
