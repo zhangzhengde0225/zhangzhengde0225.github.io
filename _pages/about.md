@@ -10,8 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
+
 Zhengde Zhang is currently a postdoctor at the School of Electronic Information and Electrical Engineering ([SEIEE](https://www.seiee.sjtu.edu.cn)), 
-Shanghai Jiao Tong University ([SJTU](https://www.sjtu.edu.cn)).
+Shanghai Jiao Tong University ([SJTU](https://www.sjtu.edu.cn)), Shanghai, China, 200240.
 
 His interests include deep learning, computer vision, quantum theory and quantum inspired fusion algorithm.
 
@@ -42,7 +43,7 @@ Chinese Academy of Sciences ([CAS](https://www.cas.cn)), Shanghai, China.
     In 2020 | [Paper](https://doi.org/10.1016/j.commatsci.2020.109571)
 
 
-### Infos
+### infos
 
 e-mail: drivener@163.com
 
@@ -51,3 +52,7 @@ wechat: drivener
 [Github Homepage](https://github.com/zhangzhengde0225)
 
 [ORCID Homepage](https://orcid.org/my-orcid?orcid=0000-0002-6542-052X)
+
+
+
+
