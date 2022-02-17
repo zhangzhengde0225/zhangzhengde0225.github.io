@@ -14,6 +14,8 @@ redirect_from:
 Zhengde Zhang is currently a postdoctor at the School of Electronic Information and Electrical Engineering ([SEIEE](https://www.seiee.sjtu.edu.cn)), 
 Shanghai Jiao Tong University ([SJTU](https://www.sjtu.edu.cn)), Shanghai, China, 200240.
 
+上海交通大学
+
 His interests include deep learning, computer vision, quantum theory and quantum inspired fusion algorithm.
 
 ## Educational Experience
