@@ -39,7 +39,7 @@ Chinese Academy of Sciences ([CAS](https://www.cas.cn)), Shanghai, China.
     In 2020 | [Paper](https://doi.org/10.1016/j.commatsci.2020.109571)
 
 
-### infos
+### Infos
 
 e-mail: drivener@163.com
 
