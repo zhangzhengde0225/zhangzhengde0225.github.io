@@ -10,7 +10,7 @@ citation: 'Zhang ZD, Tan ML, Ren CL and Huai P. VaspCZ: an Efficient VASP Comput
 ---
 
 # Info / 信息
-YEAR&ensp;&ensp;&ensp;&ensp;&ensp;&thinsp;:
+YEAR&ensp;&ensp;&ensp;&ensp;&ensp;&thinsp;&thinsp;:
 2020.
 <br>AUTHORS&ensp;&ensp;: 
 **Zhang ZD**, Tan ML, Ren CL and Huai P\*.
