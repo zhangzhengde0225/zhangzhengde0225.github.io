@@ -10,7 +10,9 @@ citation: 'Zhang ZD, Tan ML, Ren CL and Huai P. VaspCZ: an Efficient VASP Comput
 ---
 
 # Info / 信息
-AUTHORS&ensp;&ensp;: 
+YEAR&ensp;&ensp;&ensp;&ensp;&ensp;:
+2020.
+<br>AUTHORS&ensp;&ensp;: 
 **Zhang ZD**, Tan ML, Ren CL and Huai P\*.
 <br>TITLE&ensp;&ensp;&ensp;&ensp;&ensp;&thinsp;: 
 VaspCZ: an efficient VASP computation assistant program [J].
@@ -36,5 +38,7 @@ VASP（Vienna Ab-initio Simulation Package）是基于密度泛函理论的通�
 
 # Citation / 引用
 ```
-@article{Zhang ZD, Tan ML, Ren CL and Huai P. VaspCZ: an efficient VASP computation assistant program [J]. Nuclear Techniques, 2020, 32(3): 30501-30501. DOI: 10.11889/j.0253-3219.2020.hjs.43.030501}
+@article{
+Zhang ZD, Tan ML, Ren CL and Huai P. VaspCZ: an efficient VASP computation assistant program [J]. Nuclear Techniques, 2020, 32(3): 30501-30501. DOI: 10.11889/j.0253-3219.2020.hjs.43.030501
+}
 ```
