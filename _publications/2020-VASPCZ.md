@@ -10,13 +10,13 @@ citation: 'Zhang ZD, Tan ML， Ren CL, et al. VaspCZ: an efficient VASP computat
 ---
 
 # Info / 信息
-**Zhang ZD**, Tan ML, Ren CL and Huai P\*.
-<br>VaspCZ: an efficient VASP computation assistant program [J].
-<br>VaspCZ: 一个提高效率的VASP计算辅助程序[J].
-<br>[Nuclear Techniques](https://navi.cnki.net/knavi/journals/HJSU/detail), 2020, 32(3): 30501.
-<br>DOI: [10.11889/j.0253-3219.2020.hjs.43.030501](https://doi.org/10.11889/j.0253-3219.2020.hjs.43.030501) 
-<br>CODE: [https://github.com/zhangzhengde0225/VaspCZ](https://github.com/zhangzhengde0225/VaspCZ)
-<br>Download: [2020-ZZD-VaspCZ.pdf](http://zhangzhengde0225.github.io/files/2020-ZZD-VaspCZ.pdf).
+Authors : **Zhang ZD**, Tan ML, Ren CL and Huai P\*.
+<br>TITLE   : VaspCZ: an efficient VASP computation assistant program [J].
+<br>标题     : VaspCZ: 一个提高效率的VASP计算辅助程序[J].
+<br>JOURNAL : [Nuclear Techniques](https://navi.cnki.net/knavi/journals/HJSU/detail), 2020, 32(3): 30501.
+<br>DOI     : [10.11889/j.0253-3219.2020.hjs.43.030501](https://doi.org/10.11889/j.0253-3219.2020.hjs.43.030501) 
+<br>CODE    : [https://github.com/zhangzhengde0225/VaspCZ](https://github.com/zhangzhengde0225/VaspCZ)
+<br>DOWNLOAD: [2020-ZZD-VaspCZ.pdf](http://zhangzhengde0225.github.io/files/2020-ZZD-VaspCZ.pdf).
 
 # Abstract / 摘要
 With the improvement of computing power and the rise of high-throughput computing, researchers usually need to perform a large number of repeated instructions to submit scientific tasks and further check their computational results during material theoretical calculations. Generally, these instructions are simple, cumbersome and time consuming.
