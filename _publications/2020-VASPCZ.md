@@ -1,21 +1,21 @@
 ---
-title: "VaspCZ: an efficient VASP computation assistant program"
+title: "VaspCZ: an Efficient VASP Computation Assistant Program"
 collection: publications
 permalink: /publication/2020-VASPCZ
-excerpt: 'This is a efficient tool for VASP computation.'
+excerpt: 'This is an efficient tool for VASP computation.'
 date: 2020-1-1
 venue: 'Nuclear Techniques'
 paperurl: 'http://zhangzhengde0225.github.io/files/2020-ZZD-VaspCZ.pdf'
-citation: 'Zhang ZD, Tan ML， Ren CL, et al. VaspCZ: an efficient VASP computation assistant program [J]. <i>Nuclear Techniques</i>, 2020, 32(3): 30501.'
+citation: 'Zhang ZD, Tan ML, Ren CL, et al. VaspCZ: an Efficient VASP Computation Assistant Program [J]. <i>Nuclear Techniques</i>, 2020, 32(3): 30501.'
 ---
 
 # Info / 信息
-Authors : **Zhang ZD**, Tan ML, Ren CL and Huai P\*.
-<br>TITLE   : VaspCZ: an efficient VASP computation assistant program [J].
-<br>标题     : VaspCZ: 一个提高效率的VASP计算辅助程序[J].
-<br>JOURNAL : [Nuclear Techniques](https://navi.cnki.net/knavi/journals/HJSU/detail), 2020, 32(3): 30501.
-<br>DOI     : [10.11889/j.0253-3219.2020.hjs.43.030501](https://doi.org/10.11889/j.0253-3219.2020.hjs.43.030501) 
-<br>CODE    : [https://github.com/zhangzhengde0225/VaspCZ](https://github.com/zhangzhengde0225/VaspCZ)
+AUTHORS&nbsp;: **Zhang ZD**, Tan ML, Ren CL and Huai P\*.
+<br>TITLE&emsp;&nbsp;: VaspCZ: an efficient VASP computation assistant program [J].
+<br>标题&emsp;&emsp;&nbsp;: VaspCZ: 一个提高效率的VASP计算辅助程序[J].
+<br>JOURNAL&nbsp;: [Nuclear Techniques](https://navi.cnki.net/knavi/journals/HJSU/detail), 2020, 32(3): 30501.
+<br>DOI&emsp;&emsp;&nbsp;: [10.11889/j.0253-3219.2020.hjs.43.030501](https://doi.org/10.11889/j.0253-3219.2020.hjs.43.030501) 
+<br>CODE&emsp;&emsp;: [https://github.com/zhangzhengde0225/VaspCZ](https://github.com/zhangzhengde0225/VaspCZ)
 <br>DOWNLOAD: [2020-ZZD-VaspCZ.pdf](http://zhangzhengde0225.github.io/files/2020-ZZD-VaspCZ.pdf).
 
 # Abstract / 摘要
@@ -29,5 +29,8 @@ VASP（Vienna Ab-initio Simulation Package）是基于密度泛函理论的通�
 
 # Citation / 引用
 ```
-[1] Zhang ZD, Tan ML， Ren CL, et al. VaspCZ: an efficient VASP computation assistant program [J]. Nuclear Techniques, 2020, 32(3): 30501. DOI: 10.11889/j.0253-3219.2020.hjs.43.030501
+@article{Zhang ZD, Tan ML, Ren CL and Huai P. 
+VaspCZ: an efficient VASP computation assistant program [J]. 
+<i>Nuclear Techniques</i>, 2020, 32(3): 30501. 
+DOI: 10.11889/j.0253-3219.2020.hjs.43.030501}
 ```
