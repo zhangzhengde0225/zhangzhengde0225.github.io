@@ -18,7 +18,7 @@ VaspCZ: an efficient VASP computation assistant program [J].
 VaspCZ: 一个提高效率的VASP计算辅助程序[J].
 <br>JOURNAL&ensp;&ensp;: 
 [Nuclear Techniques](https://navi.cnki.net/knavi/journals/HJSU/detail), 2020, 32(3): 30501.
-<br>DOI&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&bnsp;: 
+<br>DOI&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;: 
 [10.11889/j.0253-3219.2020.hjs.43.030501](https://doi.org/10.11889/j.0253-3219.2020.hjs.43.030501) 
 <br>CODE&ensp;&ensp;&ensp;&ensp;&ensp;: 
 [https://github.com/zhangzhengde0225/VaspCZ](https://github.com/zhangzhengde0225/VaspCZ)
