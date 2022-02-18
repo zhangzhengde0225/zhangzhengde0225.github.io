@@ -107,7 +107,7 @@ Chinese Academy of Sciences ([CAS](https://www.cas.cn)), Shanghai, China.
 
 - [5] **Zhang ZD**, Ren CL*, Tan ML, Yang YQ, Yin YR, Wang CY, Han H and Huai P*. 
   
-  Migration Behavior of Tellurium in Bcc Iron Against Typical Alloying Elements: A Firstprinciples Study [J]. 
+  Migration Behavior of Tellurium in Bcc Iron Against Typical Alloying Elements: A First-principles Study [J]. 
   
   Te与典型合金元素在bcc-Fe中的扩散行为的第一性原理研究 [J].
   
@@ -190,13 +190,13 @@ Chinese Academy of Sciences ([CAS](https://www.cas.cn)), Shanghai, China.
 ## Infos / 联系信息
 ***
 
-E-mail: drivener@163.com
-
+E-mail : drivener@163.com
+<br>
 Wechat: drivener
-
-[Github Homepage](https://github.com/zhangzhengde0225)
-
-[ORCID Homepage](https://orcid.org/my-orcid?orcid=0000-0002-6542-052X)
+<br>
+Github : [https://github.com/zhangzhengde0225](https://github.com/zhangzhengde0225)
+<br>
+ORCID: [https://orcid.org/my-orcid?orcid=0000-0002-6542-052X](https://orcid.org/my-orcid?orcid=0000-0002-6542-052X)
 
 
 
