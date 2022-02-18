@@ -33,7 +33,7 @@ It is proved by practice that the efficiency of theoretical calculation of mater
 
 VASP（Vienna Ab-initio Simulation Package）是基于密度泛函理论的通用材料计算模拟软件。随着高性能计算平台的广泛使用和高通量计算的兴起，VASP计算任务的复杂性和数据量也大幅度提升。为了提高材料理论计算的方便程度，减少大量重复的指令和结果检查的复杂性，本文提供了一个基于Python语言的VASP计算辅助程序VaspCZ，能够大幅提高研究者的科研效率。该程序包含软件部分和API部分，软件部分提供了命令行用户界面，基于基本的Linux命令即可一键完成VASP计算的相关操作，为无编程语言基础的研究人员提供了便利。应用程序接口部分服务于具有Python语言基础的研究者，提供了底层库，使得自定义计算（如高通量计算、编写高级应用等）更为简单快捷。本程序包可以显著提高VASP的计算效率，并已经通过Github开源项目公开，提供了详细的使用文档、使用示例和API接口，有望能为广大材料理论研究者提供便利。
 
-# Citation
+# Citation / 引用
 ```
 [1] Zhang ZD, Tan ML， Ren CL, et al. VaspCZ: an efficient VASP computation assistant program [J]. Nuclear Techniques, 2020, 32(3): 30501. DOI: 10.11889/j.0253-3219.2020.hjs.43.030501}
 ```
