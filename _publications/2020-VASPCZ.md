@@ -35,5 +35,5 @@ VASP（Vienna Ab-initio Simulation Package）是基于密度泛函理论的通�
 
 # Citation
 ```
-@article{Zhang ZD, Tan ML， Ren CL and Huai P. VaspCZ: an efficient VASP computation assistant program [J]. Nuclear Techniques, 2020, 32(3): 30501. DOI: 10.11889/j.0253-3219.2020.hjs.43.030501}
+[1] Zhang ZD, Tan ML， Ren CL, et al. VaspCZ: an efficient VASP computation assistant program [J]. Nuclear Techniques, 2020, 32(3): 30501. DOI: 10.11889/j.0253-3219.2020.hjs.43.030501}
 ```
