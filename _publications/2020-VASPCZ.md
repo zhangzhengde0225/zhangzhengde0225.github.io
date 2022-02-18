@@ -5,12 +5,12 @@ permalink: /publication/2020-VASPCZ
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020
 venue: 'Nuclear Techniques'
-paperurl: 'http://zhangzhengde0225.github.io/files/2020.ZZD.VaspCZ.pdf'
+paperurl: 'http://zhangzhengde0225.github.io/files/2020-ZZD-VaspCZ.pdf'
 citation: ''
 ---
 
 # Info / 信息
-**Zhang ZD**, Tan ML， Ren CL and Huai P*.
+**Zhang ZD**, Tan ML， Ren CL and Huai P\*.
 
 VaspCZ: an efficient VASP computation assistant program [J].
 
@@ -22,7 +22,7 @@ DOI: [10.11889/j.0253-3219.2020.hjs.43.030501](https://doi.org/10.11889/j.0253-3
   
 CODE: [https://github.com/zhangzhengde0225/VaspCZ](https://github.com/zhangzhengde0225/VaspCZ)
 
-Download: [2020.ZZD.VaspCZ.pdf](http://zhangzhengde0225.github.io/files/2020.ZZD.VaspCZ.pdf).
+Download: [2020-ZZD-VaspCZ.pdf](http://zhangzhengde0225.github.io/files/2020-ZZD-VaspCZ.pdf).
 
 # Abstract / 摘要
 With the improvement of computing power and the rise of high-throughput computing, researchers usually need to perform a large number of repeated instructions to submit scientific tasks and further check their computational results during material theoretical calculations. Generally, these instructions are simple, cumbersome and time consuming.
