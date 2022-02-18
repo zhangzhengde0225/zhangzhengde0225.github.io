@@ -2,7 +2,7 @@
 title: "Migration Behavior of Tellurium in Bcc Iron Against Typical Alloying Elements: A First-principles Study"
 collection: publications
 permalink: /publication/2020-Tellurium
-excerpt: 'This is first-principles study base on quantum mechanism about the diffusion behavior of Te'
+excerpt: 'This is first-principles study base on quantum mechanism about the diffusion behavior of Te.'
 date: 2020-1-1
 venue: 'Computational Materials Science'
 paperurl: 'http://zhangzhengde0225.github.io/files/2020-ZZD-Tellurium.pdf'
@@ -13,7 +13,7 @@ citation: 'Zhang ZD, Ren CL, Tan ML, Yang YQ, Yin YR, Wang CY, Han H and Huai P.
 YEAR&ensp;&ensp;&ensp;&ensp;&ensp;&thinsp;&thinsp;:
 2020
 <br>AUTHORS&ensp;&ensp;: 
-**Zhang ZD**, Ren CL, Tan ML\*, Yang YQ, Yin YR, Wang CY, Han H and Huai P\*.
+**Zhang ZD**, Ren CL\*, Tan ML, Yang YQ, Yin YR, Wang CY, Han H and Huai P\*.
 <br>TITLE&ensp;&ensp;&ensp;&ensp;&ensp;&thinsp;: 
 Migration Behavior of Tellurium in Bcc Iron Against Typical Alloying Elements: A First-principles Study
 <br>中文标题&ensp;&ensp;&ensp;: 
