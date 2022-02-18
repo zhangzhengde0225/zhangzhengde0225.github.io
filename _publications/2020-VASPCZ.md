@@ -2,11 +2,11 @@
 title: "VaspCZ: an efficient VASP computation assistant program"
 collection: publications
 permalink: /publication/2020-VASPCZ
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020
+excerpt: 'This is a efficient tools for VASP computation.'
+date: 2020-1-1
 venue: 'Nuclear Techniques'
 paperurl: 'http://zhangzhengde0225.github.io/files/2020-ZZD-VaspCZ.pdf'
-citation: 'Zhang ZD, Tan ML， Ren CL, et al. VaspCZ: an efficient VASP computation assistant program [J]. Nuclear Techniques, 2020, 32(3): 30501.'
+citation: 'Zhang ZD, Tan ML， Ren CL, et al. VaspCZ: an efficient VASP computation assistant program [J]. <i>Nuclear Techniques</i>, 2020, 32(3): 30501.'
 ---
 
 # Info / 信息
