@@ -83,12 +83,12 @@ author:
   name             : "Zhengde Zhang <br> 张正德"
   avatar           : "zzd_mangshi.jpeg"
   bio              : "B.S. from <a style='color: blue;' href='https://www.buaa.edu.cn'>BUAA</a> <br> Ph.D from <a style='color: blue;' href='https://www.ucas.ac.cn'>CAS</a> <br> Postdoctor of <a style='color: blue;' href='https://www.sjtu.edu.cn'> SJTU</a> <br> associate researcher at <a style='color: blue';' href='http://www.ihep.cas.cn'>IHEP, CAS</a> now"
-  location         : "Shanghai, China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : "drivener@163.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Zhengde-Zhang"
   uri              :
   bitbucket        :
   codepen          :
